@@ -40,7 +40,7 @@
 
 Диатаксис предоставляет комплексную и практически универсально-применимую схему, которая была проверена на практике в широком диапазоне направлений и [применений](adoption.md). Они включают и большие и маленькие, и открытые и закрытые проекты документации.
 
-[Video presentation](https://www.youtube.com/watch?v=t4vKPhjcMZg)
+[Видео-презентация](https://www.youtube.com/watch?v=t4vKPhjcMZg)
 ------------------
 
 Here is a video of a conference talk presenting the concepts

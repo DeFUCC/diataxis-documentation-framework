@@ -1,35 +1,24 @@
-About tutorials
+О руководствах
 ===============
-
-**Tutorials are **lessons** that take the reader by the hand through a
-series of steps to complete a project of some kind. Tutorials are
-**learning-oriented**.**
+**Руководства** — это **уроки**, которые за руку ведут читателя  через последовательность шагов до завершения какого-то проекта. Руководства ориентированы на **обучение**.
 
 * * * * *
 
-![image](/images/overview-tutorials.png%0A%20:alt:%20'Tutorials%20-%20learning-oriented%20guides%20that%20describe%20practical%20steps%20and%20are%20intended%20to%20serve%20our%20study.'%0A%20:class:%20floated)
+![image](/images/overview-tutorials.png)
 
-A tutorial must help a beginner achieve basic competence with a product,
-so that they can go on to use the product for their own purposes.
+Руководство должно помочь начинающему достичь базовой компетенции с продуктом, такой, чтобы они могли продолжить пользоваться продуктом для своих собственных целей.
 
-A tutorial also needs to show the learner that they can be successful
-with the product - by having them do something both *meaningful* and
-*attainable*.
+Руководство также должно показывать обучающимся, что они могут достигать успехов с продуктом, предлагая им делать что-то одновременно *значимое* и *достижимое*.
 
-A tutorial in other words is a lesson - a lesson concerned with
-*learning how* rather than *learning that*, because it's concerned with
-*skill*: practical, not theoretical knowledge.
+Другими словами, руководство — это урок, чтобы скорее "научиться как", чем "узнать что", ведь он служит усвоению навыка — практического, а не теоретического знания.
 
-Having completed a tutorial, the learner should be in a position to
-start to make sense of the rest of the documentation, and the product
-itself.
+Завершив руководство, обучающийся получает начальные представления об остальной документации и о самом продукте.
 
-For a product, tutorials turns new learners into users. An inadequate
-tutorial can prevent a project from acquiring new users.
+Для продукта руководства превращают изучающих в пользователей. А неадекватное руководство может и помешать проекту в наборе новых пользователей. 
 
 * * * * *
 
-The tutorial as a lesson
+Руководство как урок
 ------------------------
 
 A lesson entails a relationship between a teacher and a pupil. In all

@@ -7,7 +7,7 @@ steps required to solve a real-world problem. How-to guides are
 
 * * * * *
 
-![image](/images/overview-how-to.png%0A%20:alt:%20'How-to%20guides%20-%20task%20oriented,%20practical%20steps,%20that%20serve%20our%20work'%0A%20:class:%20floated)
+![image](/images/overview-how-to.png)
 
 How-to guides can be thought of as recipes, directions that guide the
 reader through the steps to achieve a specific end.
@@ -50,7 +50,7 @@ itself.
 Food and cooking
 ----------------
 
-![image](/images/old-recipe.jpg%0A%20:alt:%20'a%20recipe'%0A%20:class:%20floated)
+![image](/images/old-recipe.jpg)
 
 Consider a recipe, an excellent model for a how-to guide. A recipe
 clearly defines what will be achieved by following it, and **addresses a

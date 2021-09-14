@@ -37,79 +37,46 @@
 Характеристики документации
 --------------------------------
 
-A clear advantage of organising material this way is that provides both
-clear *expectations* (to the reader) and *guidance* (to the author).
-It's clear what the purpose of any particular piece of content is, it
-specifies how it should be written and it shows where it should be
-placed.
+Заметное преимущество организации материалов таким образом заключается в том, что она дает и ясные *ожидания* читателям и *указания* для авторов. Она проясняет смысл каждой единицы контента, определяет как он должен быть написан и показывать, где его нужно разместить.
 
-Each piece of content is of a kind that not only has one particular job
-to do, that job is also clearly distinguished from and contrasted with
-the other functions of documentation.
+Каждая такая единица контента не только выполняет одну определенную работу, но и эта работа ясно отделена и противопоставлена другим функциям документации.
 
-Collapse of the structure
+Коллапс структуры
 -------------------------
 
-Most documentation systems and authors recognise at least some of these
-distinctions and try to observe them in practice. However, there is a
-kind of natural affinity between each of the different forms of
-documentation and its neighbours on the map, and a natural tendency to
-blur the distinctions (that can be seen repeatedly in examples of
-documentation).
+Большинство систем документации и авторов распознают хотя бы некоторые из этих различий и пробуют наблюдать их на практике. Однако, есть некоторая степень сходства между различными формами документации, на карте они — соседи, и есть естественная тенденция к размытию разграничений (что часто можно наблюдать в примерах документации).
 
--   *tutorials and how-to guides* both describe *practical steps*
--   *how-to guides and technical reference* are both concerned with the
-    *application of knowledge*
--   *reference and explanation* both contain *theoretical knowledge*
--   *tutorials and explanation* are both concerned with the *acquistion
-    of knowledge*
+- *и руководства и инструкции* описывают *практические шаги*
+- *и инструкции и справочники* озабочены *применением знания*
+- *и справочники и объяснения* содержат *теоретическое знание*
+- *и руководства и объяснения* связаны с *освоением знания*
 
-Allowing these distinctions to blur is what brings about structural
-problems. The most common is a complete or partial collapse of tutorials
-and how-to guides into each other, while explanation spills over into
-both tutorials and reference material:
+Позволяя этим различиям размываться мы получаем проблемы со структурой. Чаще всего наблюдается полный или частичный коллапс руководств и инструкций друг в друга, в то время как объяснение протекает в руководства и справочники:
 
 !['Partial collapse'](/images/partial-collapse.png)
 
-But sometimes, documentation actually looks like this:
+Но иногда документация на самом деле выглядит примерно вот так:
 
 !['Total collapse'](/images/total-collapse.png)
 
 * * * * *
 
-The cycle of interaction
+Цикл взаимодействия
 ------------------------
 
-Diátaxis is intended to help documentation better serve users in their
-*cycle of interaction* with a product.
+Диатакчис создан чтобы помочь документации служить пользователям в из *цикле взаимодействия* с продуктом.
 
-This phrase should not be understood too literally. It is not the case
-that a user must encounter the different kinds of documentation in the
-order *tutorials* \> *how-to guides* \> *technical reference* \>
-*explanation*. In practice, an actual user may enter the documentation
-anywhere in search of guidance on some particular subject, and what they
-want to read will change from moment to moment as they use your
-documentation.
+Эту фразу не стоит понимать слишком буквально. Это не тот случай, когда пользователь обязан встречаться с разными видами документации в порядке *инструкции* - *руководства* - *справочник* - *объяснения*. На практике реальные пользователи в поисках информации о чем-то конкретном могут прийти в документацию в любом месте и то, что они хотят читать, будет меняться от момента к моменту использования вашей документации.
 
-However, the idea of a cycle of documentation needs, that proceeds
-through different phases, is sound and corresponds to the way that
-people actually do become expert in a craft. There is a sense and
-meaning to this ordering.
+При этом сама идея цикла потребностей в документации, который проходит через разные фазы, обоснована и соотносится с путем, которым люди в действительности становятся экспертами в выбранном ремесле. Этот порядок имеет смысл и значение.
 
--   *learning-oriented phase*: We begin by learning, and learning a
-    skill means diving straight in to do it - under the guidance of a
-    teacher, if we're lucky
--   *task-oriented phase*: Next we want to put the skill to work.
--   *information-oriented phase*: As soon as our work calls upon
-    knowledge that we don't already have in our head, it requires us to
-    consult technical reference.
--   *explanation-oriented phase*: Finally, away from the work, we
-    reflect on our practice and knowledge to understand the whole.
+- [фаза, ориентированная на обучение](tutorials.md): Мы начинаем с обучения, а обучение навыку означает прямое погружение в практику — под руководством учителя, если нам повезет.
+- [фаза, ориентированная на задачи](how-to-guides.md): Затем мы хотим применить полученный навык в работе.
+- [фаза, ориентированная на информацию](reference.md): Когда работа требует знаний, которых у нас еще нет в голове, она обращает нас к технической справочной информации.
+- [фаза, ориентированная на объяснения](explanation.md): В конце, вдали от работы, мы осмысляем нашу практику и знания для понимания целого.
 
-And then it's back to the beginning, perhaps for a new thing to grasp,
-or to penetrate deeper.
+А затем все возвращается к началу, возможно, чтобы освоить что-то новое или проникнуть в глубину.
 
 * * * * *
 
-The next four sections of the documentation discuss each of the four
-modes of documentation in detail, in turn.
+Следующие четыре секции документации поочередно обсуждают каждый из четырех режимов в деталях.

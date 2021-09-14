@@ -1,14 +1,14 @@
-orphan
-:   
-
-The documentation system
+Система документации
 ========================
 
-A comprehensive and practical system that can help maintainers of
-product documentation.
+Комплексная и практичная система, которая может помочь сопроводителям документации по продуктам.
 
-Published at <https://diataxis.fr>
+### [Введение](introduction.md)
 
-Author: Daniele Procida
+
+Опубликовано на <https://diataxis.fr>
+
+Автор: Daniele Procida
+Перевод на русский язык: Денис Старов
 
 License: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
