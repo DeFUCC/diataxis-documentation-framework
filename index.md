@@ -1,64 +1,46 @@
-Diátaxis Framework
+Диатаксис
 ==================
 
-**A systematic framework for technical documentation authoring.**
+**Системный подход к созданию технической документации.**
 
-The Diátaxis framework aims to solve the problem of structure in
-technical documentation. It adopts a systematic approach to
-understanding the needs of documentation users in their cycle of
-interaction with a product.
+Система Диатаксис направлена на решение проблемы структуры в технической документации. Она применяет системный подход к пониманию потребностей пользователей документации в их цикле взаимодействия с продуктом.
 
 * * * * *
 
-* * * * *
-
-Four modes of documentation
+Четыре режима документации
 ---------------------------
 
 > ***Diátaxis***
 >
-> From the Ancient Greek δῐᾰ́τᾰξῐς - *dia*, "across", and *taxis*,
-> "arrangement".
+> От Древнегреческого  δῐᾰ́τᾰξῐς - *dia*, "через", and *taxis*,
+> "расположение".
 
-The framework identifies four modes of documentation - **tutorials**,
-**how-to guides**, **technical reference** and **explanation**.
+Система определяет четыре грани документации:  **руководства**,
+**инструкции**, **справочник** and **объяснения**.
 
-Each of these modes (or types) answers to a different user need, fulfils
-a different purpose and requires a different approach to its creation.
+Каждый из этих режимов (или типов) отвечает на разные потребности пользователя, служит разным целям и требует разных подходов к созданию.
 
-Technical documentation should be structured explicitly around these
-four types, and should keep them all separate and distinct from each
-other.
+Техническая документация должна быть структурирована в соответствии с этими четырьмя типами и должна держать их раздельно и обособленно друг от друга.
 
 !['Diátaxis'](/images/diataxis.png)
 
-In other words, what we call *documentation* is fundamentally not one
-thing, but four. Understanding the implications of this, and how those
-four different things work, can help improve most documentation.
+Другими словами, то, что мы называем документацией — фундаментально не что-то одно, а сразу четыре. Понимание следствий из этого и того, как эти четыре вещи работают, могут помочь улучшить большую часть документации.
 
-Diátaxis promises to make documentation and projects better, and the
-teams that work with them more successful.
+Диатаксис способен сделать документацию и проекты лучше, а команды, которые работают с ними, более успешными.
 
 * * * * *
 
-* * * * *
-
-Light-weight and easily adopted
+Простая и легкая в освоении
 -------------------------------
 
-The framework is light-weight, easy to understand and straightforward to
-apply. It doesn't impose implementation constraints.
+Система проста, легка в понимании и незамысловата в применении. Она не накладывает ограничений в реализации.
 
-Complete and comprehensive
+Полная и целостная
 --------------------------
 
-Diátaxis provides a comprehensive and nearly universally-applicable
-scheme, that has been proven in practice
-across a wide variety of fields and applications \<adoption\>. These
-include large and small, and open and proprietary documentation
-projects.
+Диатаксис предоставляет комплексную и практически универсально-применимую схему, которая была проверена на практике в широком диапазоне направлений и [применений](adoption.md). Они включают и большие и маленькие, и открытые и закрытые проекты документации.
 
-Video presentation
+[Video presentation](https://www.youtube.com/watch?v=t4vKPhjcMZg)
 ------------------
 
 Here is a video of a conference talk presenting the concepts

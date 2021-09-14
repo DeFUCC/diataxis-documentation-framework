@@ -1,70 +1,40 @@
-Structure in documentation
+Структура в документации
 ==========================
 
-Diátaxis isn't just a system for structuring documentation, it's a
-framework for understanding it, guiding the work of documentation
-authors, and assessing the quality of documentation. However its most
-obvious implication is for documentation structure.
+Диатаксис — не просто система структурирования документации. Это система понимания ее, направляющая работу авторов документации и определяются качество документации. Однако наиболее очевидно ее применение именно для в стуктуре документации
 
 * * * * *
 
-* * * * *
-
-The problem of structure
+Проблема структуры
 ------------------------
 
-Of all the problems that bedevil authors and maintainers of
-documentation, the problem of *structure* is one that accounts for a
-significant proportion of the grief they suffer. Multiple different
-documentation architectures exist that try to provide a solution to this
-problem. Any orderly attempt to organise documentation into clear
-content categories will help improve it (for authors as well as users).
+Из всех наших проблем, которые терзают авторов и сопроводителей документации, проблема структуры отвечает за значительную часть горя, которое они испытывают. На свете есть множество разных архитектур для документации, пытающихся дать решение этой проблемы. Любая последовательная попытка организовать документацию в ясные категории содержания поможет улучшить ее как для авторов, так и для пользователей. 
 
-However, even when armed with a helpful structure, authors often find
-themselves needing to write particular documentation content that seems
-to falls outside the scheme it provides, or across its internal
-boundaries.
+Однако, даже вооружившись полезной структурой, авторы часто находят себя в необходимости написать конкретный материал для документации, который как будто выпадает из имеющейся схемы или пересекает её внутренние границы.
 
-The map
+Карта
 -------
 
-Diátaxis aims to solve this problem by providing a scheme that
-prescribes documentation structure based on a systematic description and
-analysis of **user needs** (and not upon the characteristics of the
-product documentation is intended to serve, or around the different
-kinds of things that the documentation creator feels need to be said
-about the product).
+Диатаксис нацелен решить эту проблему предоставляя схему, которая предписывает структуру документации основанную на систематическом описании и анализе **потребностей пользователя** (а не на характеристиках продукта, который обслуживает документация, или вокруг разных типах вещей, которые автор документации считает важным сказать о продукте)
 
-Diátaxis provides a *map* of distinct documentation types rather than a
-mere list, and specifies these types in such a way that the structure
-always naturally helps shape the content into an appropriate form.
+Диатаксис предоставляет *карту* отдельных типов документации, а не просто их список, а также определяет эти типы таким образом, что структура всегда естественным образом помогает придавать контенту подходящую форму.
 
-The result is documentation that is not only better, but takes less
-effort to create and maintain.
+В результате получается документация, которая не только лучше, но и требует меньше усилия для ее создания и поддержания.
 
-Axes of knowledge
+Оси знания
 -----------------
 
-It's important to understand that Diátaxis is intended to apply to
-documentation pertaining to a *practical craft*, a *technical skill* -
-such as the use of a product. Successful exercise of any such craft or
-skill involves both theoretical grasp (knowledge and understanding), and
-an ability to apply that in practice, to work with the tools and
-materials of the craft.
+Важно понимать, что Диатаксис предназначен для применения в документации к *практическому ремеслу*, *техническому навыку*, такому как использование какого-либо продукта. Успешное приложение такого ремесла или навыка включает как теоретическое постижение (знания и понимание), так и способность применять его на практике, работать с инструментами и материалами ремесла.
 
-Diátaxis divides documentation across two axes of knowledge:
-*theory/practice*, and *acquisition/application*.
+Диатаксис делит документацию двумя осями знания: *теория/практика* и *приобретение/применение*.
 
-Documentation therefore either *contains theoretical knowledge* or
-*describes practical actions*, and is concerned either with serving *our
-acquisition* or *our application* of knowledge. Hence the map, across
-which the four forms of documentation are laid out:
+Документация таким образом либо *содержит теоретическое знание*, либо *описывает практические действия*, а также служит либо *нашему приобретению* или *нашему применению* знаний. Исходя из этого строится карта, на которой расположены все четыре формы документации:
 
 !['Diátaxis'](/images/diataxis.png)
 
 * * * * *
 
-Characteristics of documentation
+Характеристики документации
 --------------------------------
 
 A clear advantage of organising material this way is that provides both
