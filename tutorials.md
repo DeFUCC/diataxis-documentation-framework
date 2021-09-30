@@ -21,140 +21,80 @@
 Руководство как урок
 ------------------------
 
-A lesson entails a relationship between a teacher and a pupil. In all
-learning of this kind, **learning takes place through what the the pupil
-does**.
+Урок предполагает взаимодействие между учителем и учеником. В обучении такого рода **научение происходит через то, что ученик делает**.
 
-Any facts and explanations that are presented in teaching are almost
-irrelevant to what the pupil will learn - what matters is what the
-teacher gets the pupil to do.
+Любые факты и объяснения, представляемые во время обучения практически на связаны с тем, чему ученик научится. Что имеет значение — так это то, что учитель дает ученику делать.
 
-For our purposes, **a lesson is a learning experience**. If you are not
-providing your learner with a learning experience, your tutorial isn't
-doing the job it needs to.
+Для наших целей, **урок — это опыт обучения**. Если вы не предоставляете вашим обучающимся такого опыта, руководство не делает того, что должно делать.
 
-### Obligations of the teacher
+### Обязательства учителя
 
-**The teacher has responsibility**, for what the pupil is to learn, what
-the pupil will do in order to learn it, and for the pupil's success. The
-only responsibility of the pupil is to be attentive and to follow the
-teacher's directions as closely as they can. **There is no
-responsibility on the pupil to learn, understand or remember** - the
-learner's *only* obligation in this contract is to do things as
-directed.
+**У учителя есть ответственность** за то, что ученику предстоит узнать, что он будет для этого делать и за его успех в этом. Единственная обязанность ученика — это быть внимательным и следовать указаниям учителя настолько точно, насколько он может. **На ученика не возлагается ответсвенность за заучивание, понимание или запоминание**, единственное его обязательство в этом контракте — делать то, что ему указывают.
 
-At the same time, the exercise you put your pupils through must be:
+В то же время упражнения, через которые вы ведете ученика должны быть:
+- значимы — ученик нуждается в чувстве достижения,
+- успешны — ученик должен иметь возможность их выполнить,
+- логичны — путь, который проходит ученик, должен быть осмысленным,
+- наполнены пользой — ученик должен встретиться со всеми действиями, концепциями и инструментами, с которыми ему необходимо освоиться в дальнейшем.
 
--   *meaningful* - the pupil needs to have a sense of achievement
--   *successful* - the pupil needs to be able to complete it
--   *logical* - the path that the pupil takes through it needs to make
-    sense
--   *usefully complete* - the pupil must have an encounter with all of
-    the actions, concepts and tools they need to become familiar with
+Быть учителем не легко.
 
-It's not easy being a teacher.
+### Проблема руководств
 
-### The problem of tutorials
+Как правило, руководства — самая слабая часть документации, самая неправильно понимаемая и трудная в разработке. У большинства программных продуктов как правило очень слабые руководства, если вообще есть.
 
-In general, tutorials are the weakest part of documentation, the most
-misunderstood and the most difficult to do well. Most software projects
-have poor - or non-existent - tutorials.
+В идеальном уроке, учитель присутствует, взаимодействует со студентами и отвечает на их запросы. Письменное руководство далеко не лучшая замена для этого.
 
-In an ideal lesson, the teacher is present and interacts with and
-responds to the student. A written tutorial is a far-from-perfect
-substitute for this.
+Чистого времени для разработки и поддержки руководств требуется намного больше, чем для других частей документации. Достаточно сложно создать опыт обучения, который будет соответствовать всем перечисленным выше стандартам. Во многих контекстах сам продукт быстро развивается, что означает что вся работа должна быть сделана заново, чтобы убедиться что руководство по прежнему выполняет необходимые функции.
 
-The sheer amount of work required to create and maintain tutorials is
-much more than that required for the other parts of documentation. It's
-hard enough to put together a learning experience that meets all the
-standards described above; in many contexts the product itself evolves
-rapidly, meaning that all that work needs to be done again to ensure
-that the tutorial still performs its required functions.
+И, наконец, вы обнаружите, что никакая другая из вашей документации не подвержена пересмотру так, как руководства. Вам достаточно изменить справочник или инструкцию, если что-то меняется в продукте, а часто исправить нужно лишь небольшую их часть. В случае руководства вы можете прийти к выводу, что целый урок нужно полностью переписать, т.к. вы придумали лучший способ создать педагогический опыт для учащихся.
 
-Finally, you will find that no other part of your documentation is
-subject to revisions the way your tutorials are. You only have to change
-a reference or how-to guide if something in the product changes, and
-even then, usually only part of it needs to change. In the case of a
-tutorial you may come to the conclusion that the whole lesson should be
-completely rewritten, because you have thought of a better way produce a
-learning experience for the pupil.
-
-You can easily find that writing and maintaining your tutorials occupies
-as much time and energy as the the other three parts put together.
+Вы легко обнаружите, что написание и поддержание руководств занимает столько же времени и энергии, как все три остальных части вместе взятые.
 
 * * * * *
 
-Food and cooking
+Еда и готовка
 ----------------
 
 !['a child cooking'](/images/anselmo.jpg)
 
-Perhaps you have had the experience of teaching a child to cook, in
-which case you'll have encountered most of the main demands imposed by a
-tutorial.
+Возможно, у вас был опыт обучения детей приготовлению пищи. В таком случае, вы уже сталкивались с большинством их главных требований к руководству.
 
-As you probably realised, if you didn't know it already: the important
-thing in this experience isn't *what* you teach the child to cook. The
-only thing that really matters is that the child should enjoy the
-experience of working in the kitchen with you, and gains **confidence**,
-and wants to do it again.
+Как вы, возможно, поняли, если не знали раньше: главная вещь в этом опыте — не то, *что* вы учите ребенка готовить. Единственная вещь, которая важна, это то, что ребенок наслаждается самим опытом работы на кухне вместе с вами, набирается **уверенности** и хочет делать это снова.
 
-That needs to be the outcome of each learning experience in the kitchen;
-if it's not, then even if the child learned something, the learning
-journey is at risk of being ended there.
+Это должно быть результатом опыта обучения на кухне. А если это не так, то даже если ребенок и узнал что-то, путь обучения рискует на этом закончиться.
 
-A teacher always feels some natural anxiety that the pupil should learn.
-There's a temptation to press that too hard -which is both unnecessary
-and counter-productive.
+Учитель всегда чувствует некоторую естественную озабоченность тем, что ученик должен изучить. И есть соблазн надавить в этом слишком сильно, что одновременно не необходимо и контр-продуктивно.
 
-The child *will* learn, in its own time, at its own pace, **through the
-activities** you do together, and not from the things you say or show.
+Ребенок *выучит*, в свое время и в своем темпе, **через действия**, которые вы делаете вместе, а не через вещи, которые вы говорите или показываете.
 
-It will learn important things through *repetition*, over time: how to
-hold a knife, that it's important to wash hands before handling food,
-how to use measuring equipment, how to time things. It will learn what
-it's like to work in the kitchen, where to find utensils.
+Со временем это научит его главным вещам через *повторение*: как держать нож, что важно мыть руки перед обращением с едой, как использовать измерительные приборы, как засекать время. Это научит его каково это работать на кухне, где найти приборы. 
 
-With a young child, you will often find that the lesson suddenly has to
-end before you'd completed what you set out to do. This is normal and
-expected; children have short attention spans. As long as the child
-managed to achieve something - however small - and enjoyed doing it, it
-will have laid down something in the construction of its technical
-expertise, that can be returned to and built upon next time.
+С маленьким ребенком вы часто обнаруживате, что урок внезапно подошел к концу до того, как вы выполнили то, что собирались. Это нормально и ожидаемо, у детей очень маленьких объем внимания. Если ребенок смог достичь чего-то, хотя бы малого, и получил удовольстве от процесса,  это заложит что-то в конструкцию его технической экспертизы, к которой можно вернуться в следующий раз и начать строить что-то уже поверх этого.
 
-Cooking is a matter of **craft**. It’s knowledge - but it's *practical*
-knowledge, not *theoretical* knowledge. It's the same for any product:
-using it is a skill, and when we learn a new craft or skill, we always
-begin learning it by doing.
+Готовка — это вопрос ремела. Это знание, но это *практическое* знание, не * теоретическое*. Это одинаково для любого продукта: использование его — это навык, а когда мы изучаем новое умение или навык, мы всегда начинаем через обучение действием. 
 
 * * * * *
 
-Writing a good tutorial
+Написание хорошего руководства
 -----------------------
 
-> **Anti-pedagogical temptations**
+> **Анти-педагогические соблазны**
 >
-> -   abstraction, generalisation
-> -   explanation
-> -   choices
-> -   information
+> -   абстракции и обобщения
+> -   объяснения
+> -   выбор
+> -   информация
 
-### Don't try to teach
+### Не пытайтесь учить
 
-Allow the user to learn. **In the beginning, we only learn anything by
-doing** - it’s how we learn to talk, or walk.
+Позвольте пользователю учиться. **В начале мы учимся только деланием** — именно так мы учимся говорить или ходить.
 
-Give your learner things to do, through which they can learn. Only your
-pupil can learn. Sadly, however much you desire it, you will not be able
-to learn for your pupil. You cannot make them learn. All you can do is
-make it so *they* can learn.
+Дайте обучающемуся что-то делать, через что он может научиться. Только ваш ученик может учиться. К сожалению, как бы вы этого не хотели, вы не сможете учиться за вашего ученика. Вы не можете заставить их учиться. Все, что вы можете — это сделать так, чтобы *они* учились сами.
 
-As you lead the pupil through the steps you have devised, have them use
-the tools and perform the operations they’ll need to become familiar
-with, building up from the simplest ones at the start to more complex
-ones.
+По мере того, как вы ведете ученика через предложенные вами шаги, давайте им использовать инструменты и выполнять операции, с которыми им необходимо освоиться, постепенно переходя от самых простых к более сложным.
 
-### Get the user started
+### Помогите пользователям начать
 
 Your job is to **get the learner started**, not to turn them into an
 expert. Don’t ever be embarrassed to start right at the beginning: a

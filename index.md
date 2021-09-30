@@ -50,3 +50,4 @@ encapsulated in Diátaxis, from PyCon Australia 2017.
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t4vKPhjcMZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+https://www.writethedocs.org/topics/
