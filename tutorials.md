@@ -96,150 +96,74 @@
 
 ### Помогите пользователям начать
 
-Your job is to **get the learner started**, not to turn them into an
-expert. Don’t ever be embarrassed to start right at the beginning: a
-user can skim rapidly over what’s unnecessary, but if they need
-something and it’s not there, you risk losing them altogether. It’s also
-perfectly acceptable if what you get the beginner to do is not the way
-an experienced person would, or even if it’s not the ‘correct’ way - a
-tutorial for beginners is not the same thing as a manual for best
-practice.
+Ваша работа — **помочь обучающимся начать**, не превратить их в экспертов. Никогда не сущайтесь начать прямо с начала: пользователь может быстро проскочить все несущественное, но если они нуждаются в чем-то и этого нет, вы рискуете упустить из насовсем. Также вполне приемлемо если то, что вы предлагаете делать начинающим, делается не так, как это делал бы опытный человек, даже если это не "правильный" способ — руководство для начинающих — не тоже самое, что инструкции по лучшим практикам.
 
-The point of a tutorial is to help your learner set out safely on their
-journey, not to get them to a final destination.
+Смысл руководства — помочь обучающемуся благополучно отправиться в путь, а не доставить их в конечный пункт назначения.
 
-The only reason not to lower the threshold is because you decide that
-you don’t want the responsibility of teaching beginners at below a
-certain level, or you judge that a certain level of skill is a
-reasonable prerequisite for using the product at all.
+Единственная причина не понижать планку — если вы решите, что не хотите нести ответственности за обучение новичков ниже определенного уровня или вы считаете, что определенный уровень навыков является разумным предварительным условием для использования продукта в целом.
 
-### Provide a complete picture before they start
+### Предоставьте полную картину перед тем, как начинать
 
-It’s important to **allow the learner to form an idea of what they will
-achieve right from the start**. As well as helping to set expectations,
-it allows them to see themselves building towards the completed goal as
-they work. Surprising them with the result at the end will diminish, not
-augment, the value of what they achieve. It’s very enjoyable to reveal
-impressive conclusions with a flourish, but you should save that for
-your magic tricks and novels.
+Важно **позволить обучающимся сформировать представление о том, чего они достигнут, с самого начала**. Это не только помогает определить ожидания, но и дает им возможность увидеть себя, продвигающимися к конечной цели по мере работы. Удивляя их результатом в конце мы приуменьшаем, а не преувеличиваем ценность того, что они достигли. Очень приятно  с размахом показывать впечатляющие выводы, но вам стоит оставить это для ваших фокусов и романов.
 
-Providing the picture the learner needs in a tutorial can be as simple
-as informing them at the outset: *In this tutorial you will build a
-simple website using Django and deploy it using Docker. Along the way
-you will use a cloud storage service for handling media files, and will
-configure your application to use it.*
+Предоставление картины, в котором нуждается обучающийся, в руководстве может быть выражено в простом информировании их в самом начале: *В этом руководстве вы построите простой сайт с использованием Django и опубликуете его с использованием Docker. В процессе вы будете использовать сервис облачного хранилища для обработки медиа-файлов и будете настраивать конфигурацию вашего приложения для работы.*
 
-### Ensure that the tutorial works reliably
+### Убедитесь, что руководство работает надежно
 
-One of your jobs as a tutor is to inspire the beginner’s confidence.
-Confidence can only be built up layer by layer, but is easily shaken. It
-helps to maintain a friendly tone, as does consistent use of language,
-and a logical progression through the material. However, the single most
-important requirement is that **what you ask the beginner to do must
-work**. The learner needs to see that when they follow your directions,
-they will attain the results you promise.
+Одна из ваших обязянностей в качестве наставника — внушать новичкам уверенность. Уверенность можеть быть построена только слой за слоем, но ее легко растерять. Она помогает поддерживать дружественный тон, а также последовательное использование языка и логичное продвижение через материал. Однако, единственное  наиболее важное требование — **то, что вы предлагаете новичку делать, должно работать**. Ученикам нужно видеть, что когда они следуют вашим указаниям, они получают обещанные результаты.
 
-It’s hard work to create a reliable experience, but that is what you
-must aspire to in creating a tutorial.
+Создание надежного опыта — тяжелая работа, но это то, к чему вы должны стремиться в создании руководства.
 
-### Ensure the user sees results immediately
+### Убедитесь, что пользователь видит результаты незамедлительно
 
-Your learner is probably doing new and strange things that they don't
-understand. Don't make them do too many before they see a result from
-their actions. As far as possible, the effect of every action should be
-clear to them as soon as possible. The relation of cause and effect
-should be evident. Finally, each result should be something that the
-user can see as meaningful.
+Ваш ученик, возможно, делает новые и странные вещи, которые еще не понимает. Не заставляйте его делать слишком много до того, как он увидит результат своих действий. Насколько возможно, последствия каждого действия должны быть для него ясны как можно раньше. Связь причины и следствия должны быть очевидны. В конце концов, каждый результат должен быть чем-то, что пользователь сможет воспринять как значимый.
 
-**Every step the learner follows should accomplish produce a
-comprehensible result, however small.**
+**Каждый шаг, которому следует обучающийся должен давать понятный результат, какой бы маленький он ни был.**
 
-### Make your tutorial repeatable
+### Сделайте ваше руководство воспроизводимым
 
-Unless you're very lucky, the users of your tutorial will have different
-levels of skill and understanding. They might also be using different
-tools and operating systems and you can't rely on them having the same
-resources or environment.
+Если только вам не очень повезет, пользователи вашего руководства будут обладать разным уровнем умений и понимания. Они могу также использовать разные инструменты и операционные системы и вы не можете рассчитывать на то, что у них будут одинаковые ресурсы и окружение.
 
-This makes repeatable reliability extremely hard to achieve, and yet,
-**your tutorial should work for all users, every time**.
+Это делает достижение воспроизводимой надежность крайне сложной задачей, однако **ваше руководство должно работать для всех пользователей, каждый раз**.
 
-You have no alternative but to test your tutorials regularly to make
-sure that they still work as expected.
+У вас нет другой альтернативы, кроме как тестировать ваши руководства регулярно, чтобы убедиться, что они по прежнему работают как ожидалось.
 
-### Describe concrete steps, not abstract concepts
+### Описывайте конкретные шаги, не абстрактные концепции
 
-**Tutorials are composed of concrete steps**, not abstract discussion.
-Be specific and particular, about actions and outcomes.
+**Руководства состоят из конкретных шагов**, не абстрактного обсуждения. Будьте точны и конкретны, говорите о действиях и их результатах.
 
-Resist the temptation to introduce abstraction. All learning proceeds
-from the particular and concrete to the general and abstract. It's
-later, after a beginner has encountered multiple concrete examples that
-they are ready to see a pattern in them and seek an abstract account of
-what is happening - until that time, requiring the learner to handle
-levels of abstraction before they have even had a chance to grasp the
-concrete is confusing and places unnecessary burdens on them.
+Сопротивляйтесь соблазнам ввести абстракции. Любое обучение продвигается от частного и конкретного к общему и абстрактному. Позже, когда начинающий встретился с несколькими конкретными примерами, он становится готов увидеть в них закономерности и искать абстрактные описания того, что происходит. Требовать от обучающегося осмыслять уровни абстракции до того, как он получил шанс освоить конкретные вещи, запутывает его и возлагает на его плечи ненужное бремя.
 
-It's hard to resist this temptation, because once we have grasped
-something, we rely on the power of abstraction to to frame it to
-ourselves - and that's how we want to frame it to others. But it's
-simply not how learning or successful teaching works.
+Сложно сопротивляться этим соблазнам, ведь когда мы уже освоили что-то, мы опираемся на силу абстракции, чтобы сформулировать это для себя — и так нам хочется сформулировать это и для других. Но просто это не то, как работает обучение и успешное наставничество.
 
-### Offer only minimum, necessary, explanation
+### Предоставляйте минимально необходимые объяснения
 
-**If the learner doesn't need an explanation in order to complete the
-tutorial, don't explain.**
+**Если ученику не нужно объяснение, чтобы завершить руководство, не объясняйте.**
 
-For example, it's enough to say something like: *We're using HTTPS
-because it's more secure.* There is a place for extended discussion and
-explanation of HTTPS, but not in a tutorial. Sometimes, even that much
-explanation is more than required.
+Например, достаточно сказать что-то вроде "Мы используем HTTPS, потому что это более безопасно". Есть место для расширенной дискуссии и объяснений про HTTPS, но это не руководство. Иногда даже такое количество пояснений — больше, чем необходимо.
 
-It can seem problematic that we are asking a user to do things, without
-much explanation why. In practice, for the learner, it rarely is. The
-learner is focused on following your directions and getting a result;
-their time for wanting to know more about the *why* of what they're
-doing will come later. By all means include links to further explanatory
-material, if you feel it's required, but try to resist the temptation to
-interrupt the flow of a tutorial by digressing into explanation.
+Может показаться проблематичным, что мы просим пользователя делать вещи без особых объяснений почему. На практике для ученика это редко таково. Обучающийся сфокусирован на следовании вашим указаниям и получении результата. Их время хотеть узнать больше о том "почему" они что-то делают прийдет позже. Любыми средствами включайте ссылки на дальнейшие поясняющие материалы, если считаете это необходимым, но постарайтесь преодолет соблазн перебить поток руководства отвлечениями на объяснения.
 
-### Ignore options and alternatives
+### Игнорируйте опции и альтернативы
 
-Your job is to guide the learner to a successful conclusion. There may
-be many interesting diversions along the way (different options for the
-command you're using, different ways to use the API, different
-approaches to the task you're describing) - ignore them. **Your guidance
-needs to remain focused on what's required to reach the conclusion**,
-and everything else can be left for another time.
+Ваша задача — провести ученика к успешному завершению. На пути могут быть интересные ответвления (разные опции используемой команды, разные применения API, разные подходы к описываемой задаче) — игнорируйте их. **Ваши указания должны быть сфокусированы на том, что необходимо для достижения завершения**, а все остальное можно оставить на другой раз.
 
-Doing this helps keep your tutorial shorter and crisper, and saves both
-you and the reader from having to do extra cognitive work.
+Это помогает вашему руководству оставаться короче и четче, а также защищает вас и вашего читателя от излишней когнитивной работы.
 
 * * * * *
 
-The language of tutorials
+Язык руководств
 -------------------------
 
-*In this tutorial, you will...*
-:   Describe what the learner will accomplish (note - not: "you will
-    learn...").
+**В этом руководстве вы сделаете...** — описывайте то, что ученик выполнит (не "вы узнаете...").
 
-*First, do x. Now, do y. Now that you have done y, do z.*
-:   No room for ambiguity or doubt.
+**Сначала сделайте Х. Теперь сделайте У. После того, как вы сделали У, выполните Z.** — Нет места для неоднозначности и сомнений.
 
-*We must always do x before we do y because... (see Explanation for more details).*
-:   Provide minimal explanation of actions in the most basic language
-    possible. Link to more detailed explanation.
+**Мы должны всегда делать Х перед У потому что... (смотрите Объяснения для подробностей)** — Предоставьте минимальные объяснения действий самым простым языком. Дайте ссылку на более детальное объяснение.
 
-*The output should look something like this...*
-:   Give your learner clear expectations.
+**Результат должен выглядеть примерно так...** — Формируйте у ваших учеников четкие ожидания.
 
-*Notice that... Remember that...*
-:   Give your learner plenty of clues to help confirm they are on the
-    right track and orient themselves.
+**Заметьте, что... Запомните, что...** — Дайте обучающемуся множество подсказок, чтобы помочь подтвердить, что он на правильном пути и суметь сориентироваться в процессе.
 
-*You have built a secure, three-layer hylomorphic stasis engine...*
-:   Describe (and admire, in a mild way) what your learner has
-    accomplished (note - not: "you have learned...")
-
+**Вы создали безопасный, трехслойный гиломорфный стазисный двигатель...** — Опишите (и слегка восхититесь) то, что ученик выполнил. (не "Вы выучили...")
 
