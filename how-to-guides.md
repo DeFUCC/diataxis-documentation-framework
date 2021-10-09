@@ -1,89 +1,55 @@
-About how-to guides
+Об инструкциях
 ===================
 
-**How-to guides are **directions** that take the reader through the
-steps required to solve a real-world problem. How-to guides are
-**goal-oriented**.**
+**Инструкции** — это указания, которые ведут читателя через шаги, необходимые для решения реальных проблем. Инструкции ориентированы на **цели**.
 
 * * * * *
 
 ![image](/images/overview-how-to.png)
 
-How-to guides can be thought of as recipes, directions that guide the
-reader through the steps to achieve a specific end.
+Инструкции можно рассматривать как рецепты, указания, ведущие читателя через этапы для достижения конкретного результата.
 
-Examples could be: *how to calibrate the radar array*; *how to use
-fixtures in pytest*; *how to configure reconnection back-off policies*.
-On the other hand, *how to build a web application* is not - that's not
-a addressing a specific goal or problem, it's a vastly open-ended sphere
-of skill.
+Примерами могут служить: "как откалибровать радиолокационную решетку", "как использовать fixtures в pytest", "как сконфигурировать переприсоедниение политик отступления". С другой стороны, "как построить веб-приложение" — не может, т.к. не направлено на конкретную цель или проблему, а является чрезвычайно открытой сферой навыков.
 
-How-to guides matter not just because users need to be able to
-accomplish things: the list of how-to guides in your documentation helps
-frame the picture of what your product can actually *do*. A rich list of
-how-to guides is an encouraging suggestion of a product's capabilities.
+Инструкции важны не только потому, что пользователям нужно иметь возможность получать результат: список инструкций в вашей документации помогает увидеть картину того, что ваш продукт в действительности **делает**. Богатый список инструкций — обнадеживающее предположение о возможностях продукта.
 
-If they're well-written and address the right subjects, you're likely to
-find that how-to guides are the most-read sections of your
-documentation.
+Если они хорошо написаны и обращены к правильным темам, вы скорее всего обнаружите, что именно инструкции являются самым часто изучаемыми разделами вашей документации.
 
 * * * * *
 
-How-to guides vs tutorials
+Инструкции и руководства
 --------------------------
 
-**How-to guides are wholly distinct from tutorials**. They are easily
-conflated, as both describe a series of practical steps that lead to the
-completion of some task. The user-needs that they serve are quite
-different however, and conflating them is at the root of many
-difficulties that afflict documentation.
+**Инструкции принципиально отличаются от руководств**. Они легко сливаются воедино, т.к. оба описывают последовательности практических шагов, ведущих к выполнению некоторой задачи. Однако потребности пользователей, которые они обслуживают, заметно отличаются и такие слияния становятся корнем многих трудностей, поражающих документацию.
 
-Notably, in most software documentation how-to guides tend to be
-well-written - much more well-written than tutorials. Software
-developers are often particularly good at writing them, because how-to
-guides follow the experience of a real-world user, and share the same
-task-focused perspective that a developer has when writing the software
-itself.
+Стоит отметить, что в большей части программной документации инструкции обычно написаны достаточно хорошо — намного лучше, чем руководства. Разработчики программ часто особенно хороши в написании их, потому что инструкции соответствуют опыту реального пользователя и разделяют ту же направленную на решение задач перспективу, что есть и у разработчика в процессе написания самой программы.
 
 * * * * *
 
-Food and cooking
+Еда и кулинария
 ----------------
 
 ![image](/images/old-recipe.jpg)
 
-Consider a recipe, an excellent model for a how-to guide. A recipe
-clearly defines what will be achieved by following it, and **addresses a
-specific question** (*How do I make...?* or *What can I make with...?*).
+Рассмотрим рецепт как отличную модель инструкции. Рецепт ясно определяет, что будет достигнуто в результате следования ему и **обращается к конкретному вопросу** ("Как мне сделать...?", "Что я могу сделать с...?").
 
-It's not the responsibility of a recipe to *teach* you how to make
-something. A professional chef who has made the exactly the same thing
-multiple times before may still follow a recipe - even if they *created*
-the recipe themselves - to ensure that they do it correctly.
+В обязанности рецепта не входит *учить* вас, как что-то сделать. Профессиональный шеф-повар, который делал то же самое множество раз может по прежнему следовать рецепту — даже если он сам *создал* рецепт для самого себя — чтобы убедиться, что он делает все правильно.
 
-Even following a recipe **requires at least basic competence**. Someone
-who has never cooked before should not be expected to follow a recipe
-with success, so a recipe is not a substitute for a cooking lesson.
+Даже следование рецепту **требует как минимум базовых компетенций**. Не стоит предполагать, что тот, кто никогда не готовил раньше, сможет успешно следовать рецепту, то есть рецепт не является заменой уроку по кулинарии.
 
-Someone who expected to be provided with a recipe, and is given instead
-a cooking lesson, will be disappointed and annoyed. Similarly, while
-it's interesting to read about the context or history of a particular
-dish, the one time you don't want to be faced with that is while you are
-in the middle of trying to make it. A good recipe follows a
-well-established format, that excludes both teaching and discussion, and
-focuses only on **how** to make the dish concerned.
+Тот, кто ожидал получить рецепт, а вместо этого получил урок по кулинарии, будет расстроен и раздражен. Аналогично, как бы ни было интересно почитать о контексте и истории конкретного блюда, самое неподходящее время, чтобы с этим столкнуться — как раз когда вы в середине попытки его сделать. Хороший рецепт соответствует устоявшемуся формату, который исключает и обучение и обсуждение, а фокусируется только на том, **как**  сделать блюдо соответствующим.
 
 * * * * *
 
-Writing a good how-to guide
+Написание хорошей инструкции
 ---------------------------
 
-> **How-to characteristics**
->
-> -   focused on tasks or problems
-> -   assume the user knows what they want to achieve
-> -   action and only action
-> -   no digression, explanation, teaching
+> **Характеристики инструкции**
+>  - фокусируется на задачах или проблемах
+>  - предполагает, что пользователь знает, что хочет получить
+>  - действие и только действие
+>  - никаких отступлений, объяснений, поучений.
+
 
 ### Describe a sequence of actions
 
