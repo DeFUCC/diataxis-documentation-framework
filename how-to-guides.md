@@ -51,76 +51,47 @@
 >  - никаких отступлений, объяснений, поучений.
 
 
-### Describe a sequence of actions
+### Опишите последовательность действий
 
-Like a tutorial, a **how-to guide contains a sequence of actions, that
-have an order**. Unlike a tutorial, you don't have to start at the
-beginning of the whole story and take your reader right to the end. Most
-likely, your user will also be in the middle of something - so you only
-need to provide a starting-point that they know how to reach, and a
-conclusion that actually answers a real question.
+Как и руководство, **инструкция содержит последовательность действий в определенном порядке**. В отличие от руководства, вам не нужно начинать с самого начала всей истории и вести читателя до самого конца. Более вероятно, что ваш пользователь уже находится в середине чего-то, так что вам нужно лишь дать начальную точку, которую они знают как достичь, и вывод, который на самом деле отвечает на реальный вопрос.
 
-How-to guides should be reliable, but they don’t need to have the
-cast-iron repeatability of a tutorial.
+Инструкции должны быть надежными, но им не требуется быть железно воспроизводимыми как руководство.
 
-### Solve a problem
+### Решайте проблему
 
-The problem or task is the concern of a how-to guide: **stick to that
-practical goal**. Anything else that's added - unnecessary explanation,
-for example - distracts both you and the user and dilutes the useful
-power of the guide.
+Проблема или задача — это предмет инструкции: **держитесь этой практической цели**. Любые дополнения — ненужные объяснения, например, — отвлекают и вас и пользователя и разбавляют полезную ценность инструкции.
 
-### Don't explain concepts
+### Не объясняйте понятия
 
-An explanation doesn't show you how to do something - so **a how-to
-guide should not try to explain things.** Explanation here will simply
-get in the way of the action. If explanations are important, link to
-them.
+Объяснение не показывает вам, как сделать что-то, поэтому **инструкция не должна пытаться объяснять вещи**. Объяснения здесь только встанут на пути действия. Если объяснения необходимы — дайте на них ссылку.
 
-### Be flexible
+### Будьте гибкими
 
-A tutorial needs to be didactic in nature, but **a how-to guide needs to
-be adaptable to real-world use-cases**. A how-to guide that is useless
-for any purpose except *exactly* the narrow one you have addressed is
-rarely valuable.
+Руководство должно быть по природе дидактическим, но **инструкция должна быть адаптируема к реальным сценариям использования**. Инструкция, которая бесполезна для других целей, кроме одной конкретной узкой цели, на которую она направлена, редко бывает ценной.
 
-### Omit the unnecessary
+### Опустите несущественное
 
-In how-to guides, **practical usability is more helpful than
-completeness.** Whereas a tutorial needs to be a complete, end-to-end
-guides, a how-to guide does not. It should start and end in some
-reasonable, meaningful place, and require the reader to join it up to
-their own work.
+В инструкциях **практическое удобство более полезно, чем полнота**. В то время как руководство должно быть полным пособием от и до, инструкция такой быть не должна. Она должна начинаться и завершаться в каком-то разумном, значимом месте и требовать от читателя самому включить её в свою работу.
 
-### Pay attention to naming
+### Уделите внимание названию
 
-**Choose titles that say exactly what a how-to guide shows.**
+**Выбирайте заголовки, которые говорят точно о том, что показывает инструкция.**
 
--   good: *How to integrate application performance monitoring*
--   bad: *Integrating application performance monitoring* (maybe the
-    document is about how to decide whether you should, not about how to
-    do it)
--   very bad: *Application performance monitoring* (maybe it's about
-    *how* - but maybe it's about *whether*, or even just an explanation
-    of *what* it is)
+- Хорошо: "Как внедрить мониторинг производительности приложения"
+- Плохо: "Внедрение мониторинг производительности приложения" (возможно, этот документ о том, как решить, нужно ли это, а не как это сделать)
+- Очень плохо: "Мониторинг производительности приложения" (возможно, это о том, "как", но, может быть, это "стоит ли", или даже это просто объяснение того, "что" это такое)
 
-Note that search engines appreciate good titles just as much as humans
-do.
+Обратите внимание, что поисковые системы ценят хорошие заголовки настолько же, насколько и люди.
 
 * * * * *
 
-The language of how-to guides
+Язык инструкций
 -----------------------------
+**Эта инструкция показывает вам как...**
+: Ясно опишите проблему или задачу, для которой пользователю предлагатся решение.
 
-*This guide shows you how to...*
-:   Describe clearly the problem or task that the guide shows the user
-    how to solve.
+**Если вы хотите Х, сделайте У. Чтобы достичь А, делайте Б.**
+: Используйте условные императивы.
 
-*If you want x, do y. To achieve w, do z.*
-:   Use conditional imperatives.
-
-*Refer to the x reference guide for a full list of options.*
-:   Don't pollute your practical how-to guide with every possible thing
-    the user might do related to x.
-
-
+**Обратитесь к справочнику Х за полным списком опций.**
+: Не засоряйте практические инструкции всеми возможными вещами, которые пользователь может делать в связи с Х.
