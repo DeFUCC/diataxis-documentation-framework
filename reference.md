@@ -1,152 +1,89 @@
-About reference
-===============
+# О справочниках
 
-**Reference guides are **technical descriptions** of the machinery and
-how to operate it. Reference material is **information-oriented**.**
+**Справочные материалы — технические описания** механизмов и того, как ими оперировать. Справочные материалы **ориентированы на информацию.**
 
-* * * * *
+---
 
 ![image](/images/overview-reference.png%0A%20:alt:%20'Reference%20-%20information%20oriented,%20theoretical%20knowledge,%20that%20serves%20our%20work'%0A%20:class:%20floated)
 
-The only purpose of a reference guide is to describe, as succinctly as
-possible, and in an orderly way. Whereas the content of tutorials and
-how-to guides are led by needs of the user, reference material is led by
-the product it describes.
+Единственное назначение справочника – описать, насколько возможно лаконично и упорядоченно. В то время как содержание руководств и инструкций следуют за потребностями пользователя, справочник следует за продуктом, который он описывает.
 
-In the case of software, reference guides describe the software itself -
-APIs, classes, functions and so on - and how to use them.
+В случае программ, справочник описывает программу как таковую: API, классы, функции и т.д., а также как их использовать.
 
-Your users need reference material because they need truth and certainty
-- firm platforms on which to stand while they work. Good technical
-reference is essential to provide users with the confidence to do their
-work.
+Пользователям нужны справочные материалы потому что им нужна правда и уверенность – твердые основания на которые можно опереться в работе. Хорошая техническая документация насущно необходима чтобы дать пользователям уверенность в их работе.
 
-* * * * *
+---
 
-Reference as description
-------------------------
+## Справочник как объяснение
 
-Reference material should be **austere and to the point**. One hardly
-*reads* reference material; one *consults* it.
+Справочные материалы должны быть **суровы и по делу**. Редко кто-то _читает_ справочник, чаще мы _консультируемся_ с ним.
 
-There should be no doubt or ambiguity in reference; it should be wholly
-authoritative.
+В справочнике не должно быть сомнений и неоднозначности. Он должен быть абсолютно авторитетен.
 
-Reference material is like a map. A map tells you what you need to know
-about the territory, without having to go out and check the territory
-for yourself; a reference guide serves the same purpose for the product
-and its internal machinery.
+Справочник как карта. Карта говорит вам что вам нужно знать про территорию без необходимости пойти и проверить эту территорию самому. Справочные материалы служать той же самой цели для продукта, что и его внутренняя машинерия.
 
-Although reference should not attempt to show how to perform tasks, it
-can and often needs to include a description of how something works or
-the correct way to use it.
+Хотя справочник не должен пытаться показать как выполнять то или иное действие, он может и часто должен включать описание того как что-то работает или как это правильно использовать.
 
-Some reference material (such as API documentation) can be generated
-automatically by the software it describes, which is a powerful way of
-ensuring that it remains faithfully accurate to the code. Unfortunately,
-there are too many software developers who think that this is all the
-documentation required.
+Некоторые справочные материалы (такие как документация API) могут быть сгенерированы автоматически программой, которую они описывают – это мощный способ убедиться что они продолжают точно соответсвовать коду. К несчастью, в мире слишком много разработчиков программ, которые думают6 что это и есть вся необходимая документация.
 
-* * * * *
+---
 
-Food and cooking
-----------------
+## Пища и её приготовление
 
 ![image](/images/liquorice.png%0A%20:alt:%20"Wikipedia's%20entry%20for%20liquorice"%0A%20:class:%20floated)
 
-Perhaps you might consult an encyclopaedia to read about an ingredient
-(for example, about liquorice).
+Возможно вы можете свериться с энциклопедией, чтобы прочитать про ингредиент (к примеру – лакрица).
 
-What you're seeking is information - accurate, up-to-date, comprehensive
-information. You may want to know about its properties, its chemical
-composition, how it interacts with other ingredients, what other
-ingredients or plants it is related to, what health implications it
-might have.
+То, что вы ищете – информация – точная, современная, всеохватная информация. Вы можете захотеть узнать о его свойствах, химическом составе, о том, как он взаимодействует с другими интредиентами, с какими ингредиентами или растениями он связан, какие могут быть последствия его употребления на здоровье.
 
-For example: *Liquorice is a flowering plant of the bean family
-Fabaceae*. Or: *Excessive consumption of liquorice may result in adverse
-effects*.
+Например: «Лакрица - это цветковое растение семейства бобовых Fabaceae», или «Чрезмерное употребление лакрицы может привести к неблагоприятным последствиям».
 
-You'll expect to find information about these sorts of things presented
-in much the same way for each one.
+Вы будете ожидать найти информацию обо всех этих гранях представленных в похожей для каждого форме.
 
-You will not on the other hand expect to find for example recipes, or
-suggestions on how to cook with it - it is not a function of an
-encyclopaedia article to tell you what to do.
+С другой стороны вы не ожидаете найти, например, рецепты или предложения о том, как готовить с ней – говорить вам что делать – не входит в задачи энциклопедической статьи.
 
-* * * * *
+---
 
-Writing a good reference guide
-------------------------------
+## Написание хорошего справочника
 
-> **Style and form**
+> **Стиль и форма**
 >
-> -   austere and uncompromising
-> -   neutrality, objectivity, factuality
-> -   structured according to the structure of the machinery itself
+> - сурово и бескомпромиссно
+> - нейтральность, объективность, факты
+> - структурированность в соответствии со структурой самой описываемой системы
 
-### Respect the structure of the machinery
+### Уважайте структуру системы
 
-The way a map corresponds to the territory it represents helps us use
-the former to find our way through the latter. It should be the same
-with documentation: **the structure of the documentation should mirror
-the structure of the product**, so that the user can work their way
-through them at the same time.
+То, как карта соответсвует территории, которую она описывает, помогает нам использовать первую, чтобы находить дорогу через последнюю. С документацией должно быть точно также: **структурая документации должна отображать структуру продукта**, чтобы пользователь мог прокладывать свой путь через них одновременно.
 
-In the case of code, this means arranging the sections of reference
-documentation to follow the architecture of the software, where
-possible.
+В случае с кодом, это означает что расположение секций справочных материалов, где это возможно, следует архитектуре самой программы
 
-It doesn't mean forcing the documentation into an unnatural structure.
-What's important is the that logical, conceptual arrangement of and
-relations within the code should help make sense of the documentation.
+Это не означает превратить документацию в неестественную структуру. Что важно – это логическое, концептуальное расположение и связи внутри кода должны помогать понять документацию.
 
-### Be consistent
+### Будьте последовательны
 
-**Reference material benefits from consistency.** Be consistent, in
-structure, language, terminology, tone. There are many opportunities in
-writing to delight your readers with your extensive vocabulary and
-command of multiple styles, but reference material is definitely not one
-of them.
+**Справочные материалы выигрывают от последовательности**. Постоянство важно в структуре, языке, терминологии, тоне. В писательстве есть масса возможностей порадовать ваших читателей богатым словарем и владением множеством стилей, но справочник – то точно не одна из них.
 
-### Do nothing but describe
+### Ничего кроме объяснений
 
-**Technical reference has one job: to describe**, and to do that
-clearly, accurately and comprehensively. Doing anything else -
-explaining, discussing, instructing, speculating -gets in the way of
-that job, and makes it harder for the reader to find the information
-they need.
+**У технической справки одна задача – описывать.** И делать это ясно, точно и всесторонне. Делать что-то ещё: объяснять, обсуждать, инструктировать, размышлять – все это будет помехами для этой задачи и сделает для читателя поиск необходимой информации труднее.
 
-It can be tempting to introduce instruction and explanation, simply
-because technical reference can seem too bare. Instead, link to how-to
-guides, explanation and introductory tutorials as appropriate.
+Может быть соблазнительно добавить инструкцию или объяснение, просто потому что техническая справка может показаться слишком голой. Вместо этого по мере необходимости давайте ссылки на инструкции, объяснения и вводные руководства.
 
-### Provide examples
+### Предоставьте примеры
 
-**Examples** are valuable ways of providing illustration that helps
-readers understand reference, without becoming distracted from the job
-of describing. For example, an example of usage of a command can be a
-succinct way of illustrating it and its context.
+**Примеры** – это важные способы предоставить иллюстрации, которые помогают читателям понять справку, не отвлекаясь при этом от задачи описания. Например, пример использования команды может быть лаконичным способом проиллюстрировать её и её контекст.
 
-### Be accurate
+### Будьте точны
 
-**These descriptions must be accurate and kept up-to-date.** Any
-discrepancy between the machinery and your description of it will
-inevitably lead a user astray.
+**Эти описания должны быть точны и актуальны.** Любые несоотвествия между системой и её описанием будут неизбежно вводить пользователя в заблуждение.
 
-* * * * *
+---
 
-The language of reference guides
---------------------------------
+## Язык справочных материалов
 
-*X is an example of y. W needs to be initialised using z. This option does that.*
-:   State facts about the machinery and its behaviour.
+**А - это пример Б. В необходимо инициализировать с помощью Г. Эта опция делает это.** - Утверждайте факты о системе и её поведении
 
-*Sub-commands are: a, b, c, d, e, f.*
-:   List commands, options, operations, features, flags, limitations,
-    error messages, etc.
+**Подкомандами являются: а,б,в,г,д,е.** - Перечисляйте команды, опции, операции, возможности, флаги, ограничения, сообщения об ошибках и т.д.
 
-*You must use a. You must not apply b unless c. Never d.*
-:   Provide warnings where appropriate.
-
-
+**Вам нужно использовать А. Н применяйте Б пока не С. Никогда не делайте D.** - При необходимости – предупреждайте.
