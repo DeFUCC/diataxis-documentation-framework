@@ -1,177 +1,112 @@
-About explanation
-=================
+# Об объяснениях
 
-**Explanation is **discussion** that clarifies and illuminates a
-particular topic. Explanation is **understanding-oriented**.**
+### Объяснение - это **дискуссия**, которая проясняет и освещает конкретную тему. Объеснение ориентировано на **понимание**.
 
-* * * * *
+---
 
 ![image](/images/overview-explanation.png%0A%20:alt:%20'Explanation%20-%20understanding%20oriented,%20theoretical%20knowledge,%20that%20serves%20our%20study'%0A%20:class:%20floated)
 
-Explanation clarifies, deepens and broadens the reader’s understanding
-of a subject.
+Объяснение проясняет, углубляет и расширяет понимание читателем предмета.
 
-It's not concerned with what the user might be doing, like tutorials and
-how-to guides. It's not a close-up view of the machinery, like reference
-material. It's documentation that approaches a topic from a higher
-perspective, and from different angles.
+Оно не заботится о том, что пользователь может делать, как инструкции и руководства. Это не показ механики крупным планом, как в справочнике. Этот вид документации подходит к теме с более высокой перспективы и под другими углами.
 
-This allows explanation to become *discussion*, a more relaxed, freer
-way to consider something. Explanation joins things together. It's
-documentation that it makes sense to read while away from the product
-itself.
+Это позволяет объяснению стать **обсуждением** - более расслабленым и свободным способом рассмотрения чего-либо. Объяснение связывает вещи вместе. Это документация, которую имеет смысл читать когда не занимаешься непосредстенно самим продуктом.
 
-* * * * *
+---
 
-The value and place of explanation
-----------------------------------
+## Ценность и место объяснений
 
-> **Explanation by any other name**
+> **Другие названия для объяснений**
 >
-> It's not always obvious what the best name for your explanation
-> documentation should be. Other possible names could include:
+> Не всегда очевидно, как лучше всего назвать вашу объяснительную документацию.
+> Могут подойти следующие названия:
 >
-> -   *Discussion*
-> -   *Background*
-> -   *Conceptual guides*
-> -   *Topics*
+> - _Обсуждение_
+> - _Бэкграунд_
+> - _Концептуальные руководства_
+> - _Предметная область_
 
-### Explanation and understanding
+### Объяснение и понимание
 
-Explanation, unlike the other three forms of documentation, doesn't have
-a direct part in a user's practice or work. This means that it's
-sometimes seen as being of lesser importance. That's a mistake; it may
-be less *urgent* than the other three, but it's no less *important*.
-It's not a luxury. No practitioner of a craft can afford to be without
-an understanding of that craft, and needs the explanatory material that
-will help weave it together.
+Объяснение в отличие от трех других форм документации не является прямой частью пользовательской практики или работы. Это значит, что иногда ее рассматривают как менее важную. Это – ошибка. Оно может быть менее **срочное**, чем три других, но никак не менее **важное**. Это - не роскошь. Ни один практик какого-либо ремесла не может позволить себе не иметь понимания этого ремесла и нуждается в пояснительных материалах, которые помогут связать все воедино.
 
-In most European languages, words that mean *understanding* share roots
-in words meaning to hold or grasp. That's an important part of
-understanding, to be able to hold something or be in possession of it.
-It seals together the other components of our mastery of a craft, and
-makes it safely our own.
+В большинстве европейских языков слова, которые означают **понимание** имеют общий корень со словами, обозначающими "держать" или "хватать". Иметь возможность удерживать что-то или владеть чем-то – важная часть понимания. Оно склеивает воедино другие компоненты мастерства в ремесле и позволяет его уверенно присвоить.
 
-Understanding doesn't simply *come from* explanation, but explanation is
-required to form that web that helps hold everything together. Without
-it, the practitioner's knowledge of their craft is loose and fragmented
-and fragile, and their exercise of it is *anxious*.
+Понимание не просто **приходит** из объяснения, но объяснение должно сформировать ту сеть, которая помогает удерживать все вместе. Без этого знание своего ремесла у практика будет ослаблено, фрагментировано и хрупко, а его применение – напряженно.
 
-### Explanation and its boundaries
+### Объяснение и его границы
 
-It's fairly rare to see explanation given its own section in
-documentation, and the idea that things need to be explained is often
-only faintly expressed. Instead, explanation tends to be scattered in
-small parcels in other sections.
+Довольно редко можно увидеть объяснения выделенными в отдельную секцию в документации, а сама идея, что вещи нуждаются в объяснении часто выражено лишь поверхностно. Вместо этого объяснения чаще всего рассыпаны маленькими порциями в других разделах.
 
-It's not always easy to write good explanatory material. Where does one
-start? It's also not clear where to conclude. There is an open-endedness
-about it that can give the writer too many possibilities.
+Не всегда просто написать хороший объяснительный материал. С чего начать? Также не очень понятно, где закончить. В этом есть некоторая неопределенность, которая может дать автору слишком много возможных вариантов.
 
-Tutorials, how-to-guides and reference are all clearly defined in their
-scope by something that is also well-defined: by what you need the user
-to learn, what task the user needs to achieve, or just by the scope of
-the machine itself.
+Инструкции, руководства и справочники четко определены в своей сфере задач чем-то, что можно точно определить: тем, что пользователь должен узнать, какую задачу пользователь пытается решить, или просто фокусом на самом механизме.
 
-In the case of explanation, it's useful to have a real or imagined *why*
-question to serve as a prompt. Otherwise, you simply have to draw some
-lines that mark out a reasonable area and be satisfied with that.
+В случае объяснения полезно иметь реальные или выдуманные вопросы **"почему?"**, которые будут служить точкой входа. В противном случае вам нужно просто очертить какую-то линию, обозначив разумную область и этим удовлетвориться.
 
-* * * * *
+---
 
-Analogy from cooking
---------------------
+## Аналогия с приготовлением пищи
 
 ![image](/images/mcgee.jpg%0A%20:alt:%20'a%20child%20cooking'%0A%20:class:%20floated)
 
-In 1984 Harold McGee published *On food and cooking*.
+В 1984 году Гарольд МакГи опубликовал книгу **"О еде и ее приготовлении"**.
 
-The book doesn't teach how to cook anything. It doesn't contain recipes
-(except as historical examples) and it isn't a work of reference.
-Instead, it places food and cooking in the context of history, society,
-science and technology. It explains for example why we do what we do in
-the kitchen and how that has changed.
+Эта книга не учит как что-либо приготовить. Она не содержит рецептов (кроме исторических примеров) и она не работает как справочный материал. Вместо этого она помещает еду и готовку в контекст истории, общества, науки и технологии. Она объясняет, например, почему мы делаем то, что мы делаем на кухне и как это менялось во времени.
 
-It considers its subject from multiple different perspectives, using
-them to illuminate it in different ways.
+Она рассматривает свой предмет с множества различных перспектив, используя их чтобы осветить его с разных сторон.
 
-After reading a book like *On food and cooking*, our understanding is
-changed. Our knowledge is richer and deeper. We may not have learned
-anything that we can apply in practice, or that will change what we do,
-but **it will change how we think about our craft**, and that is just as
-valuable.
+После чтения книги вроде **"О еде и ее приготовлении"**, наше понимание меняется. Наше знание становится богаче и глубже. Мы можем ничего не узнать такого, что можно применить на практике или что изменит то, что мы делаем, однако **она поменяет то, как мы думаем о своем ремесле**, а это не менее важно.
 
-It's something we might read at our leisure, away from the kitchen
-itself, when we want to think about cooking at a higher level, and to
-understand more about the subject.
+Это что-то, что мы можем читать в свободное время, вдали от кухни, когда мы хотим подумать про готовку на более высоком уровне, чтобы понять больше о самом предмете.
 
-* * * * *
+---
 
-Writing good explanation
-------------------------
+## Написание хороших объяснений
 
-> **Things to discuss**
+> **Что стоит обсудить**
 >
-> -   the bigger picture
-> -   history
-> -   choices, alternatives, possibilities
-> -   why: reasons and justifications
+> - более широкая картина
+> - история
+> - выбор, альтернативы, возможности
+> - почему: причины и оправдания
 
-### Make connections
+### Создавайте связи
 
-When writing explanation you are helping to weave a web of understanding
-for your readers. **Make connections** to other things, even to things
-outside the immediate topic, if that helps.
+Во время написания объяснений вы помогаете переплетать сеть понимания в головах ваших читателей. **Создавате связи** с другими вещами, даже с теми, что находятся вне вашего непосредственного предмета, если это может помочь.
 
-### Provide context
+### Предоставьте контекст
 
-**Provide background and context in your explanation**: explain *why*
-things are so - design decisions, historical reasons, technical
-constraints - draw implications, mention specific examples.
+**Предоставьте обстоятельсва и контекст в ваших объяснениях**: расскажите _почему_
+вещи таковы – дизайн-решения, исторические причины, технические ограничения – обозначьте подтексты, упомяните конкретные примеры.
 
-### Talk *about* the subject
+### Говорите **о** предмете
 
-Explanation guides are *about* a topic in the sense that they are
-*around* it. Even the names of your explanation guides should reflect
-this; you should be able to place an implicit (or even explicit) *about*
-in front of each title. For example: *About user authentication*, or
-*About database connection policies*.
+Объясненительные материалы говорят **о** предмете в том смысле, что они располагаются как бы **вокруг** него. Даже названия таких материалов должны отражать это. У вас должна быть возможность поставить перед каждым из заголовков подразумеваемое (или реальное) слово **"О"**. Например, **"Об авторизации пользователей"**, или **"О политиках подключения к базе данных"**
 
-### Discuss alternatives and opinions
+### Обсуждайте альтернативы и различные мнения
 
-**Explanation can consider alternatives**, counter-examples or multiple
-different approaches to the same question. You're not giving instruction
-or describing facts - you're opening up the topic for consideration. It
-helps to think of explanation as discussion: discussions can even
-consider and weigh up contrary *opinions*.
+**Объяснения могут рассматривать альтернативы**, контр-примеры и множество разных подходов к одному и тому же вопросу. Вы не даете инструкции и не описываете факты – вы раскрываете предмет для обсуждения. Это помогает думать об объяснении как о дискуссии: обсуждаения могут рассматривать и взвешивать даже противоположные **мнения**.
 
-### Don't instruct, or provide technical reference
+### Не инструктируйте и не предоставляйте техническую справку
 
-One risk of explanation is that other things can tend to creep in.
-**Explanation should do things that the other parts of the documentation
-do not.** It’s not the place of an explanation to instruct the user in
-how to do something. Nor should it provide technical description. These
-functions of documentation are already taken care of in other sections.
+Один из рисков объяснений – это то, что другие вещи могут закрастся в них. **Объяснения должны делать то, чего не делают другие части документации.** Объяснения – не место для инструктирования пользователя как что-то сделать. И не должны они давать технические описания. Об этих функциях документации позаботятся другие разделы.
 
-* * * * *
+---
 
-The language of explanation
----------------------------
+## Язык объяснений
 
-*The reason for x is because historically, y...*
-:   Explain.
+_Причина Х в том, что исторически У..._
+: Объясняйте.
 
-*W is better than z, because...*
-:   Offer judgements and even opinions where appropriate..
+_А лучше Б потому что..._
+: Представляйте суждения и даже мнения там, где это уместно.
 
-*An x in system y is analogous to a w in system z. However...*
-:   Provide context that helps the reader.
+_Х в системе А аналогичен У в системе Б. Однако..._
+: Предоставьте контекст, который поможет читателю.
 
-*Some users prefer w (because z). This can be a good approach, but...*
-:   Weigh up alternatives.
+_Некоторые пользователи предпочитают В (потому что Г). Это может быть неплохим подходом, но..._
+: Взвешивайте альтернативы.
 
-*An x interacts with a y as follows:...*
-:   Unfold the machinery's internal secrets, to help understand why
-    something does what it does.
-
-
+_Д взаимодествует с Е в следующем порядке..._
+: Раскройте внутренние секреты механизмов, чтобы помочь понять, почему что-то делает то, что делает.
