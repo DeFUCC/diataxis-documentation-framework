@@ -1,18 +1,13 @@
-How to use Diátaxis
-===================
+# Как использовать Диатаксис
 
-In short, the answer is: **pragmatically**.
+Если коротко, то ответ – **прагматично**.
 
-Diátaxis is based on sound theoretical principles and has been proven in
-practice, but it's not the final word in documentation. The only value
-that it can offer you is to be useful in helping make your documentation
-better for its users, and easier for you to create and maintain.
+Диатаксис основан на твердых теоретических принципах и был проверен на практике, но он все же не последнее слово в документации. Единственная ценность, которую он может для вас представлять, это быть полезным в облегчении разработки документации, которая лучше для её пользователей и проще в создании и поддержании для вас.
 
 The best thing you can do with it therefore is take from it however much
 seems to work for you: as much or as little as you wish.
 
-Use Diátaxis as a guide, not a plan
------------------------------------
+## Use Diátaxis as a guide, not a plan
 
 Diátaxis describes a complete picture of documentation. However the
 structure it proposes is not intended to be a **plan**, something you
@@ -25,15 +20,14 @@ and what you're trying to do with it. It provides tools that help assess
 it, identify where its problems lie, and judge what you can do to
 improve it.
 
-Don't worry about structure
----------------------------
+## Don't worry about structure
 
 Although structure is key to documentation, **using Diátaxis means not
 spending energy trying to get its structure correct**.
 
 If you continue to follow the prompts that Diátaxis provides, eventually
 your documentation will assume the Diátaxis structure - but it will have
-assumed that shape *because* it has been improved. It's not the other
+assumed that shape _because_ it has been improved. It's not the other
 way round, that the structure must be imposed upon documentation to
 improve it.
 
@@ -50,8 +44,7 @@ that is how your top-level structure will form. In other words,
 **Diátaxis changes the structure of your documentation from the
 inside**.
 
-Work one step at a time
------------------------
+## Work one step at a time
 
 Diátaxis strongly prescribes a structure, but whatever the state of your
 existing documentation - even if it's a complete mess by any standards -
@@ -67,8 +60,7 @@ Although Diátaxis is intended to provide a big picture of documentation,
 unhelpful. Diátaxis is designed to guide small steps; keep taking small
 steps to arrive where you want to go.
 
-Just do something
------------------
+## Just do something
 
 If you're tidying up a huge mess, the temptation is to tear it all down
 and start again. Again, avoid it. As far as improving documentation
@@ -79,23 +71,25 @@ improve. Instead, the best way to apply Diátaxis is as follows:
 already have something that you know you want to put right, don't go
 looking for outstanding problems. Just look at what you have right in
 front of you at that moment: the file you’re in, the last page you read
+
 - it doesn’t matter. If there isn’t one just choose something, literally
-at random.
+  at random.
 
 **Assess it**. Next consider this thing critically. Preferably it’s a
 small thing, nothing bigger than a page - or better, even smaller, a
 paragraph or a sentence. Challenge it, according to the standards
-Diátaxis prescribes: *What user need is represented by this? How well
+Diátaxis prescribes: _What user need is represented by this? How well
 does it serve that need? What can be added, moved, removed or changed to
 serve that need better? Do its language and logic meet the requirements
-of this mode of documentation?*
+of this mode of documentation?_
 
 **Decide what to do**. Decide, based on your answers to those questions:
-*What single next action will produce an immediate improvement here?*
+_What single next action will produce an immediate improvement here?_
 
-**Do it**. Complete that next single action, *and consider it completed*
+**Do it**. Complete that next single action, _and consider it completed_
+
 - i.e. publish it, or at least commit the change. Don't feel that you
-need to do anything else to make a worthy improvement.
+  need to do anything else to make a worthy improvement.
 
 And then go back to the beginning of the cycle.
 
@@ -104,8 +98,7 @@ and troublesome aspects of the documentation-writer's work: working out
 what to do. It keeps work flowing in the right direction, always towards
 the desired end, without having to expend energies on a plan.
 
-Allow your work to develop organically
---------------------------------------
+## Allow your work to develop organically
 
 There's a strong urge to work in a cycle of planning and execution in
 order to work towards results. But it's not the only way, and there are
